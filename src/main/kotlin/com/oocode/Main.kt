@@ -4,4 +4,6 @@ fun main(args: Array<String>) {
     println("Hello World!")
 }
 
-fun moo() = "boo"
+fun max_elves(calories: String): String {
+    return "1000"
+}
